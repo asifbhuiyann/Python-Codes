@@ -1,0 +1,7 @@
+hax = list(range(10))
+print(hax)
+print(hax[2])
+hax = list(range(5,20))
+print(hax)
+hax = list(range(5,100,2))
+print(hax)

@@ -1,0 +1,11 @@
+num = {1,2,2,4,5}
+num1 = set([1,2,3])
+print(num)
+print(num1)
+num.add(6)
+print(num)
+num1.remove(2)
+print(num1)
+print(2 in num)
+print(8 in num1)
+print(8 not in num1)
